@@ -1,1 +1,1 @@
-## JuliaGSim vs. LTspice Circuit Benchmarks
+# JuliaGSim vs. LTspice Circuit Benchmarks
