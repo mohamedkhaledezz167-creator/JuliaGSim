@@ -47,4 +47,9 @@ Validated against commercial SPICE (**LTspice**) across **DC Operating Point**, 
 | **Oscillator** | **Inverter LC VCO** | [`Inverter_based_LC_OSC.ipynb`](https://github.com/mohamedkhaledezz167-creator/JuliaGSim/blob/main/benchmarks/OSC/Inverter_based_LC_OSC.ipynb) | 300 Circuits | **14.643 s** | 173.452 s | **11.85×** | Mean Freq Error: **1.86%** (Max: **2.28%**, 1.42–1.85 GHz) |
 | **Comparator** | **Strong-Arm Latch** | [`Strong_Arm.md`](https://github.com/mohamedkhaledezz167-creator/JuliaGSim/blob/main/benchmarks/Strong_Arm/Strong_Arm.md) / [`.ipynb`](https://github.com/mohamedkhaledezz167-creator/JuliaGSim/blob/main/benchmarks/Strong_Arm/Strong_Arm_test.ipynb) | 300 Circuits | **8.545 s** | 175.280 s | **20.51×** | Mean Diff Waveform MSE: **3.78 × 10⁻² V²** |
 
+
+
+# Intellectual Property & Trademark Notice:
+The name JuliaGSim™, its architecture (VSIM / VOPT), and its mathematical circuit description syntax (Circuit, add_mos!, compile!) are the exclusive intellectual property of Mohamed Khaled Ezzeldin. Copying the API syntax or using the JuliaGSim name to endorse or name any other software is strictly prohibited.
+
 ---
